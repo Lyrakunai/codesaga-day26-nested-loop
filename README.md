@@ -18,5 +18,5 @@
 - Didn't track inner loop properly
 
 ## 🚀 Status
-Completed day 26
-see day26_practice.py
+- Completed day 26
+- See day26_practice.py
